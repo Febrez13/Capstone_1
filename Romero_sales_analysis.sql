@@ -1,7 +1,5 @@
--- Sales Territory Analyzed:
+--Sales Territory Analysis
+--Region : East 
+--Territory : Online 
 
--- Area 1: 
-
--- Area 2: 
-
--- Area 3:
+1--
